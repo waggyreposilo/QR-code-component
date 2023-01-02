@@ -23,8 +23,8 @@ body{
 }
 
 .container{
-    max-width:290px;
-    max-height:500px;
+    max-width:310px;
+    max-height:510px;
     margin:0 auto;
     background-color:var(--color-white);
     padding:15px;
